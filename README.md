@@ -74,16 +74,17 @@ Contributed core backend features using ASP.NET Core, C#, and Entity Framework C
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Plagiarism Checker System
-*Final Year Project · 3-member team*
+### 🏢 SmartCorp HRM
+*Enterprise HR Platform · TechtaGone Technologies*
 
-Plagiarism-detection web app using semantic similarity detection between documents.
+Company-wide HR platform adopted by **150+ employees**, built with Clean Architecture and MediatR (CQRS).
 
-- Owned backend API development
-- Built NLP-based similarity-scoring logic
-- Used Sentence Transformers & text embeddings
+- Designed 4 core modules: Employee Management, Attendance, Leave, Payroll
+- Built **25+ RESTful APIs** with EF Core across **40+ migrations**, zero rollback incidents
+- Implemented role-based auth — zero reported security incidents
+- Built **MyWall** engagement module, driving a **20%** rise in internal communication
 
-**`ASP.NET Core Web API`** `React.js` `NLP`
+**`ASP.NET Core`** `C#` `Clean Architecture` `MediatR` `SQL Server` `MudBlazor`
 
 </td>
 </tr>
