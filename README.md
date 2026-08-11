@@ -148,7 +148,7 @@ I'm interested in opportunities where I can contribute as a **Full Stack .NET De
 
 📧 **Email:** [ihtishamzameer49@gmail.com](mailto:ihtishamzameer49@gmail.com)
 
-💼 **Portfolio:** Coming soon
+💼 **Portfolio:** https://ihtisham-phi.vercel.app
 
 🐙 **GitHub:** [github.com/ihtishamzameer](https://github.com/ihtishamzameer)
 
