@@ -111,17 +111,7 @@ Structured REST API · Secure authentication · Relational data modeling · Resp
 <br/>
 
 <div align="center">
-
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=ihtishamzameer&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
+  
 ## 📬 Let's Work Together
 
 I'm actively looking for opportunities to contribute as a **Full Stack .NET Developer** with a team that values clean code, ownership, and continuous growth.
