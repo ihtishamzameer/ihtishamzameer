@@ -1,167 +1,140 @@
-# 👋 Hi, I'm Ihtisham Zameer
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:00D4AA&height=160&section=header&text=Ihtisham%20Zameer&fontSize=42&fontColor=ffffff&animation=fadeIn)](https://github.com/ihtishamzameer)
 
-### Full Stack .NET Developer
+**Full Stack .NET Developer • Clean Architecture Advocate • Problem Solver**
 
-> Building scalable software with clean architecture.
-
-I'm a **Full Stack .NET Developer** from Pakistan focused on building modern, maintainable, and scalable web applications.
-
-I work primarily with **ASP.NET Core, C#, Entity Framework Core, SQL Server, React, and JavaScript**, with an interest in clean architecture, REST APIs, authentication, testing, and deployment.
+Building scalable software with clean architecture.
 
 ---
 
-## 🚀 About Me
+# About Me
+[#about-me](#about-me)
+
+I'm a **Full Stack .NET Developer** from Pakistan focused on building modern, maintainable, and scalable web applications.
+
+My work centers around:
+
+- ASP.NET Core & C# backend development
+- React-driven frontend engineering
+- Clean architecture & REST API design
+- Authentication, testing, and deployment
+
+---
+
+# Impact
+[#impact](#impact)
+
+| Area              | Result                                              |
+|-------------------|------------------------------------------------------|
+| Backend APIs      | RESTful services built with ASP.NET Core & EF Core   |
+| Data Layer        | Structured SQL Server schemas with clean data access |
+| Frontend          | Responsive React apps with modern JS tooling         |
+| Security          | JWT-based authentication & authorization             |
+
+---
+
+# Tech Stack
+[#tech-stack](#tech-stack)
+
+## Backend
+[#backend](#backend)
+
+C# • .NET • ASP.NET Core
+Entity Framework Core • REST API
+
+## Frontend
+[#frontend](#frontend)
+
+React • JavaScript • HTML5 • CSS3
+Bootstrap • Redux • Vite
+
+## UI & Frameworks
+[#ui--frameworks](#ui--frameworks)
+
+MudBlazor • Blazor • Ant Design • TailwindCSS
+
+## Data & Infrastructure
+[#data--infrastructure](#data--infrastructure)
+
+SQL Server • MySQL • MongoDB • Redis
+Git • GitHub Actions • Docker
+
+## Testing
+[#testing](#testing)
+
+Cypress • Playwright • Selenium
+
+---
+
+# Engineering Philosophy
+[#engineering-philosophy](#engineering-philosophy)
 
 ```csharp
 public class Ihtisham
 {
     public string Role => "Full Stack .NET Developer";
-
     public string Location => "Pakistan";
 
-    public string CurrentProject =>
-        "School Management System";
-
-    public string Backend =>
-        "ASP.NET Core • C# • Entity Framework Core";
-
-    public string Frontend =>
-        "React • JavaScript • HTML • CSS";
-
-    public string Database =>
-        "SQL Server";
-
-    public string DevOps =>
-        "Git • GitHub Actions • Docker";
-
-    public string Motto =>
-        "Building scalable software with clean architecture.";
+    public string[] Principles => new[]
+    {
+        "Clean Architecture",
+        "Maintainable Code",
+        "Secure by Default",
+        "Continuous Learning"
+    };
 }
 ```
 
----
+**Core principles:**
 
-## 🧑‍💻 What I Do
-
-* 🔹 Build **RESTful APIs** using ASP.NET Core
-* 🔹 Develop modern web applications with **React**
-* 🔹 Design and work with **SQL Server databases**
-* 🔹 Implement authentication and authorization using **JWT**
-* 🔹 Apply **Entity Framework Core** for data access
-* 🔹 Build applications using clean and maintainable architecture
-* 🔹 Write automated tests and improve application reliability
-* 🔹 Deploy applications and configure CI/CD workflows
-* 🔹 Work with Git and GitHub for version control
+- Clean, maintainable architecture
+- Secure authentication & authorization
+- Reliable, well-tested applications
+- Continuous learning and improvement
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-
-### UI & Frameworks
-
-![MudBlazor](https://img.shields.io/badge/MudBlazor-594AE2?style=for-the-badge\&logo=blazor\&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge\&logo=blazor\&logoColor=white)
-![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge\&logo=ant-design\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Databases
-
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
-
-### DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge\&logo=jira\&logoColor=white)
-
-### Testing
-
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-
----
-
-## 📌 Current Focus
+# Current Focus
+[#current-focus](#current-focus)
 
 ### 🏫 School Management System
 
-Currently working on a **School Management System** using modern full-stack technologies.
+Currently building a **School Management System** using modern full-stack technologies.
 
-**Core technologies:**
+**Core technologies:** `ASP.NET Core` · `C#` · `Entity Framework Core` · `SQL Server` · `React` · `JWT Authentication`
 
-`ASP.NET Core` · `C#` · `Entity Framework Core` · `SQL Server` · `React` · `JWT Authentication`
-
-The project focuses on building a structured backend API, secure authentication, database management, and a responsive React frontend.
+The project focuses on a structured backend API, secure authentication, database management, and a responsive React frontend.
 
 ---
 
-## 📊 GitHub Analytics
+# GitHub Stats
+[#github-stats](#github-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ihtishamzameer&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=ihtishamzameer&theme=github_dark&hide_border=false" height="170"/>
-</p>
+[![](https://github-readme-stats.shion.dev/api?username=ihtishamzameer&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/ihtishamzameer)
+[![](https://streak-stats.demolab.com/?user=ihtishamzameer&theme=github_dark&hide_border=false)](https://github.com/ihtishamzameer)
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ihtishamzameer&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170"/>
-</p>
+[![](https://github-readme-stats.shion.dev/api/top-langs/?username=ihtishamzameer&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/ihtishamzameer)
 
 ---
 
-## 🏆 GitHub Achievements
+# Achievements
+[#achievements](#achievements)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ihtishamzameer&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in opportunities where I can contribute as a **Full Stack .NET Developer**, work with experienced teams, and continue building production-quality software.
-
-📧 **Email:** [ihtishamzameer49@gmail.com](mailto:ihtishamzameer49@gmail.com)
-
-💼 **Portfolio:** Coming soon
-
-🐙 **GitHub:** [github.com/ihtishamzameer](https://github.com/ihtishamzameer)
+[![](https://github-profile-trophy.vercel.app/?username=ihtishamzameer&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ihtishamzameer)
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p>
+# Connect
+[#connect](#connect)
 
-<p align="center">
-  <i>Building software. Learning continuously. Improving every day.</i>
-</p>
+[![](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihtishamzameer49@gmail.com)
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ihtishamzameer)
+
+Open to opportunities as a Full Stack .NET Developer, working with experienced teams on production-quality software.
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ihtishamzameer&icon=0&color=0" alt="Profile views"/>
 </p>
+
+[![](https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0A2540&height=120&section=footer)](https://github.com/ihtishamzameer)
