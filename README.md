@@ -21,7 +21,7 @@
 
 </div>
 
-**.NET Full Stack Developer** with **2+ years of experience** designing, building, and shipping enterprise-grade web applications using **ASP.NET Core, C#, and SQL Server**.
+**.NET Full Stack Developer** with **1.5+ years of experience** designing, building, and shipping enterprise-grade web applications using **ASP.NET Core, C#, and SQL Server**.
 
 Promoted from **Intern → Junior .NET Developer** within 6 months for strong delivery on a company-wide HRM platform built on **Clean Architecture** and **MediatR (CQRS)**. Skilled in RESTful API design, Entity Framework Core, responsive UI development (**MudBlazor/Radzen**), and automated reporting (**Telerik**). Comfortable liaising directly with clients to translate business requirements into technical specifications.
 
@@ -34,7 +34,7 @@ Currently seeking a **backend/full-stack .NET role** where I can keep shipping r
 ## 💼 Professional Experience
 
 ### .NET Full Stack Developer
-**TechtaGone Technologies** — Islamabad, Pakistan &nbsp;|&nbsp; *Aug 2024 – Apr 2026*
+**TechtaGone Technologies** — Islamabad, Pakistan &nbsp;|&nbsp; *Feb 2025 – Apr 2026*
 **Progression:** Intern → Junior .NET Developer → Full Stack Developer
 
 </div>
