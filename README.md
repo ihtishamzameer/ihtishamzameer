@@ -2,7 +2,7 @@
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:00D4AA&height=180&section=header&text=Ihtisham%20Zameer&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Full%20Stack%20Developer&descAlignY=58&descSize=20)](https://github.com/ihtishamzameer)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=600&lines=2%2B+years+building+enterprise+.NET+applications;Clean+Architecture+%7C+CQRS+%2F+MediatR+%7C+ASP.NET+Core;Intern+%E2%86%92+Junior+.NET+Dev+%E2%86%92+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=600&lines=1.5%2B+years+building+enterprise+.NET+applications;Clean+Architecture+%7C+CQRS+%2F+MediatR+%7C+ASP.NET+Core;Intern+%E2%86%92+Junior+.NET+Dev+%E2%86%92+Full+Stack+Developer)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ihtishamzameer&color=0A2540&style=flat-square&label=Profile+Views)](https://github.com/ihtishamzameer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D4AA?style=flat-square&logo=vercel&logoColor=white)](https://ihtisham-phi.vercel.app/)
